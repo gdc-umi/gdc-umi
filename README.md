@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gdc-umi
+- 👀 I’m interested in Web Development, Data Science, and Cloud Technology.
+- 🌱 I’m currently learning Python and SQL.
+- 💞️ I’m looking to collaborate on all sorts of things! Let's learn together.
+- 📫 How to reach me ...
